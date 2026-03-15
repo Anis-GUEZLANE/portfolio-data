@@ -1,0 +1,26 @@
+date,vendeur,region,produit,quantite,prix_unitaire,statut
+2024-01-05,Alice Martin,Nord,Laptop,2,899.99,validé
+2024-01-07,Bob Dupont,Sud,Souris,5,24.99,validé
+2024-01-10,Alice Martin,Nord,Clavier,3,49.99,validé
+2024-01-12,,Est,Écran,1,299.99,validé
+2024-01-15,Claire Bernard,Ouest,Laptop,1,899.99,annulé
+2024-01-18,David Petit,Nord,Souris,10,24.99,validé
+2024-01-20,Bob Dupont,Sud,Webcam,2,79.99,validé
+2024-01-22,Alice Martin,Nord,Écran,2,299.99,validé
+2024-01-25,Emma Leroy,Est,Clavier,4,49.99,en attente
+2024-02-01,Claire Bernard,Ouest,Laptop,3,899.99,validé
+2024-02-03,David Petit,Nord,Souris,7,24.99,validé
+2024-02-07,Bob Dupont,Sud,Webcam,,79.99,validé
+2024-02-10,Alice Martin,Nord,Écran,1,299.99,validé
+2024-02-12,Emma Leroy,Est,Clavier,6,49.99,validé
+2024-02-14,Claire Bernard,Ouest,Souris,15,24.99,validé
+2024-02-18,,Nord,Laptop,1,899.99,annulé
+2024-02-20,Bob Dupont,Sud,Clavier,2,49.99,validé
+2024-02-25,David Petit,Nord,Webcam,3,79.99,validé
+2024-03-01,Alice Martin,Nord,Laptop,2,899.99,validé
+2024-03-05,Emma Leroy,Est,Souris,8,24.99,validé
+2024-03-08,Claire Bernard,Ouest,Écran,2,299.99,validé
+2024-03-12,Bob Dupont,Sud,Clavier,3,49.99,validé
+2024-03-15,David Petit,Nord,Webcam,4,79.99,validé
+2024-03-20,Alice Martin,Nord,Souris,12,24.99,en attente
+2024-03-25,Emma Leroy,Est,Laptop,1,899.99,validé
